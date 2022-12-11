@@ -69,7 +69,9 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-shek-bhandari&show_icons=true&theme=dark" alt="abhi-shek-bhandari" /></p>
 <br/>
 
-<p align="center"><a href="https://activity-graph.herokuapp.com/graph?username=abhi-shek-bhandari&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=583232&area=true&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=abhi-shek-bhandari&theme=react-dark" alt="abhi-shek-bhandari"/></a></p>
+<!-- <p align="center"><a href="https://activity-graph.herokuapp.com/graph?username=abhi-shek-bhandari&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=583232&area=true&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=abhi-shek-bhandari&theme=react-dark" alt="abhi-shek-bhandari"/></a></p> -->
+
+![Abhishek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhi-shek-bhandari&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true)
 
 <p align="center">
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
