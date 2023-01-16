@@ -61,9 +61,14 @@
                                                                                                    
 <h1 align="center">📊 My Github Stats</h1>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-shek-bhandari&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhi-shek-bhandari" /></p>
+<!-- ![Abhishek's github activity graph](https://github-readme-stats.vercel.app/api/top-langs?username=abhi-shek-bhandari&show_icons=true&theme=dark&locale=en&layout=compact) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-shek-bhandari&&show_icons=true&theme=dark" alt="abhi-shek-bhandari" /></p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-shek-bhandari&theme=dark&locale=en&layout=compact" alt="abhi-shek-bhandari" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-shek-bhandari&theme=dark" alt="abhi-shek-bhandari" /></p>
 <br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-shek-bhandari&show_icons=true&theme=dark" alt="abhi-shek-bhandari" /></p>
